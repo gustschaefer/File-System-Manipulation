@@ -3,7 +3,7 @@
 Programa que recebe quatro parâmetros: 
 
 1. Um diretório de imagens.
-2. Um diretório destino onde as imagens serão armazenadas .
+2. Um diretório destino onde as imagens serão armazenadas.
 3. O tamanho que as imagens serão redimensionadas.
 4. Tamanho mínimo da imagem. 
 
