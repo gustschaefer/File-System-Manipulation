@@ -9,7 +9,7 @@
 import os
 
 path = "/file/path"
-classe = ["class1", "class2", "class2"]
+classe = "class1"
 files = os.listdir(path)
 
 for index, file in enumerate(files):
