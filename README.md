@@ -13,3 +13,5 @@ O sistema le as imagens do diretório de origem, redimensiona cada uma de acordo
 * O redimensionamento da imagem deverá ser proporcional ao maior tamanho (largura ou altura) da imagem. Por exemplo: dado uma imagem de tamanho 180x120 e o tamanho mínimo recebido é 150, a imagem final será 150x100.
 * Um arquivo imagens.txt deverá ser criado para armazenar o nome e a classe das imagens redimensionadas. Cada linha do arquivo deverá ter a seguinte estrutura: nome_imagem,classe
 * Um arquivo imagens_desconsideradas.txt deverá ser criado para armazenar o nome e o tamanho original das imagens não processadas. Cada linha do arquivo deverá ter a seguinte estrutura: nome_imagem, largura, altura.
+
+Mude o nome da classe das imagens ao utilizar arquivos diferentes dos disponibilizados na pasta *images*. Os arquivos *move_files.py* e *rename.py* são apenas extras de manipulaçoes simples que podem ser feitas em diretórios ou arquivos.
